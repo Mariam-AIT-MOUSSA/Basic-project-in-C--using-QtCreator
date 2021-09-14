@@ -1,4 +1,4 @@
-# Projet-de-base-en-C++-using-QtCreator
+# Basic-project-in-C++-using-QtCreator
 
 This project was created under the aim of consolidate the POO concepts and practise the C++ langage, it was realised using: 
 #C++/QtCreator
