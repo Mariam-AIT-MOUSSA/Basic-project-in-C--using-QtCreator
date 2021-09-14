@@ -10,5 +10,4 @@ It is a base application for the management of a school's HR & subjects includin
 #CRUD a teacher
 #CRUD a subject
 
-
-
+In this repository, the project's report is included.
